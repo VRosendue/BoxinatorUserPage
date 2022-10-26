@@ -1,0 +1,34 @@
+.card {
+    position: relative;
+    
+   
+    left: -50rem;
+    
+}
+
+.TitleShipping {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    width: -300px;
+    
+}
+
+
+
+.TitleProduct {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 40px;
+    width: 300px;
+    margin-right: -50rem;
+    
+    
+}
+
+.images {
+display: inline;
+max-height: 150px;
+max-width: 200px;
+width: 120px;
+height: 120px;
+
+}
